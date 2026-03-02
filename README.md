@@ -704,5 +704,4 @@ After starting the server, visit:
 ## 📝 License
 
 MIT
-#   U d e m y - s v  
- 
+#
