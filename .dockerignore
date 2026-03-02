@@ -1,0 +1,10 @@
+node_modules/
+dist/
+assets/users/
+logs/
+.env
+*.log
+LMS-admin/
+LMS-instructor/
+LMS-mobile/
+.git/
